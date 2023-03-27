@@ -34,3 +34,11 @@ In both cases:
 - Represent the corpus as a Bag of (visual) Words
 - Reduce the size of this representation
 - Compare the results with pre-trained models
+
+  ## Author
+ 
+ **Ezequiel Saraceno**
+ 
+ ## Show your support
+
+Give a ⭐️ if this project helped you!
